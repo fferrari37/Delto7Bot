@@ -64,7 +64,8 @@ Este es un proyecto de un bot de Telegram desarrollado con Python que utiliza tr
      - Analizar conversacion 🗯
 
 2. **"¡Quiero saber el clima! ☀":**
-   - Proporciona el nombre de una ciudad y el bot devolverá información climática actual, algun dato relevante de la ciudad y una recomendación de 3 restaurantes en la ciudad a los cuales el usuario pueda concurrir.
+   - Proporciona el nombre de una ciudad y el bot devolverá información climática actual de una ciudad especificada, algun dato relevante de la misma y una recomendación de 3 restaurantes en la ciudad a los cuales el usuario pueda concurrir. 
+   La recomendación de los restaurantes parte de la idea de que generalmente el clima es un condicionante para desarrollar distintas actividades y que generalmente se consulta sobre la ciudad en la que la persona se encuentra. El objetivo es brindar algunas opciones donde el usuario pueda concurrir almorzar si considera que el estado del tiempo es aprovechable.  
 
 3. **¡Quiero contar! 🔢**
    - Gestiona un contador propio del usuario donde, al selecionarlo, incrementará su valor y se devolvera al usuario el total del mismo.
